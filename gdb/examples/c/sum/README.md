@@ -19,3 +19,7 @@ We can get the info about the breakpoints using the `info breakpoints` command,
 We can get the assembly as well for the breakpoints using the memory address that we can see listed in the `Address` column,
 
 ![disassemble](image-4.png)
+
+We can further print out the offsets used by the `main` method as raw binary addresses and memory used by the program,
+
+![x/10xg](image-5.png)
