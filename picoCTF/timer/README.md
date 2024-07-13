@@ -7,3 +7,5 @@ For example, learning about tools such as `jadx` and `apktools`.
 To solve this challenge, quite simply disasemble the `.apk` with `jadx`, and run `grep -r "pico" .` in the created directory to find mentions of the flag.
 
 ![timer](image.png)
+
+The solution is `picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}`.
