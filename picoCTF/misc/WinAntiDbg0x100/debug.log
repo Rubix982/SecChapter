@@ -1,0 +1,68 @@
+trace:virtual:NtAllocateVirtualMemory 0xffffffff 0x7ffe0000 00001000 3000 00000002
+trace:virtual_ranges:free_ranges_insert_view 0x7ffe0000 - 0x7ffe1000, aligned 0x7ffe0000 - 0x7fff0000.
+trace:virtual_ranges:dump_free_ranges (nil) - 0x7ffe0000.
+trace:virtual_ranges:dump_free_ranges 0x7fff0000 - 0xffffffff.
+trace:virtual:dump_view View: 0x7ffe0000 - 0x7ffe0fff (valloc)
+trace:virtual:dump_view       0x7ffe0000 - 0x7ffe0fff c-r--
+trace:virtual:NtAllocateVirtualMemory 0xffffffff (nil) 00200000 102000 00000004
+trace:virtual:map_view got mem in reserved area 0x7fde0000-0x7ffe0000
+trace:virtual_ranges:free_ranges_insert_view 0x7fde0000 - 0x7ffe0000, aligned 0x7fde0000 - 0x7ffe0000.
+trace:virtual_ranges:dump_free_ranges (nil) - 0x7fde0000.
+trace:virtual_ranges:dump_free_ranges 0x7fff0000 - 0xffffffff.
+trace:virtual:dump_view View: 0x7fde0000 - 0x7ffdffff (valloc)
+trace:virtual:dump_view       0x7fde0000 - 0x7ffdffff --rw-
+trace:virtual:NtAllocateVirtualMemory 0xffffffff 0x7ffc0000 00020000 1000 00000004
+trace:virtual:dump_view View: 0x7fde0000 - 0x7ffdffff (valloc)
+trace:virtual:dump_view       0x7fde0000 - 0x7ffbffff --rw-
+trace:virtual:dump_view       0x7ffc0000 - 0x7ffdffff c-rw-
+20225.005:013c:0140:trace:ntdll:init_cpu_info <- CPU arch 0, level 6, rev 36364, features 0xebfbbfff
+20225.005:013c:0140:trace:ntdll:NtQueryInformationToken (0xfffffffa,1,0xffd00df4,76,0xffd00dd0)
+20225.007:013c:0140:trace:reg:NtCreateKey ((nil),L"\\Registry\\User\\S-1-5-21-0-0-0-1000\\Software\\Wine",<null>,0,f003f,0xffd01174)
+20225.007:013c:0140:trace:reg:NtCreateKey <- 0x4
+20225.007:013c:0140:trace:reg:NtQueryValueKey (0x4,L"ShowDotFiles",2,0xffd01184,80)
+20225.007:013c:0140:trace:file:find_drive_rootA "/home/saif/Downloads/WinAntiDbg0x100" -> drive Z:, root="/", name="/home/saif/Downloads/WinAntiDbg0x100"
+20225.007:013c:0140:trace:file:find_drive_rootA "/opt/wine-stable/bin/../share/wine" -> drive Z:, root="/", name="/opt/wine-stable/bin/../share/wine"
+20225.007:013c:0140:trace:file:find_drive_rootA "/home/saif" -> drive Z:, root="/", name="/home/saif"
+20225.007:013c:0140:trace:file:find_drive_rootA "/home/saif/.wine" -> drive Z:, root="/", name="/home/saif/.wine"
+20225.007:013c:0140:trace:file:find_drive_rootA "/opt/wine-stable/lib/wine" -> drive Z:, root="/", name="/opt/wine-stable/lib/wine"
+20225.007:013c:0140:trace:reg:NtOpenKeyEx ((nil),L"\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Session Manager\\Environment",20019,0xffd00dcc)
+20225.007:013c:0140:trace:reg:NtOpenKeyEx <- 0x4
+20225.007:013c:0140:trace:reg:NtEnumerateValueKey (0x4,0,1,0xffd0056c,2066)
+20225.007:013c:0140:trace:reg:NtEnumerateValueKey (0x4,1,1,0xffd0056c,2066)
+20225.007:013c:0140:trace:reg:NtEnumerateValueKey (0x4,2,1,0xffd0056c,2066)
+20225.007:013c:0140:trace:reg:NtEnumerateValueKey (0x4,3,1,0xffd0056c,2066)
+20225.007:013c:0140:trace:reg:NtEnumerateValueKey (0x4,4,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,5,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,6,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,7,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,8,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,9,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,10,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,11,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,12,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,13,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:ntdll:NtQueryInformationToken (0xfffffffa,1,0xffd00a34,76,0xffd00a10)
+20225.008:013c:0140:trace:reg:NtCreateKey ((nil),L"\\Registry\\User\\S-1-5-21-0-0-0-1000\\Environment",<null>,0,f003f,0xffd00dcc)
+20225.008:013c:0140:trace:reg:NtCreateKey <- 0x4
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,0,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,1,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,2,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:ntdll:NtQueryInformationToken (0xfffffffa,1,0xffd00a34,76,0xffd00a10)
+20225.008:013c:0140:trace:reg:NtCreateKey ((nil),L"\\Registry\\User\\S-1-5-21-0-0-0-1000\\Volatile Environment",<null>,0,f003f,0xffd00dcc)
+20225.008:013c:0140:trace:reg:NtCreateKey <- 0x4
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,0,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,1,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,2,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,3,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,4,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,5,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,6,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,7,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,8,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,9,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,10,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtEnumerateValueKey (0x4,11,1,0xffd0056c,2066)
+20225.008:013c:0140:trace:reg:NtOpenKeyEx ((nil),L"\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList",20019,0xffd00dcc)
+20225.008:013c:0140:trace:reg:NtOpenKeyEx <- 0x4
+20225.008:013c:0140:trace:reg:NtQueryValueKey (0x4,L"ProgramData",2,0xffcffd68,4118)
+20225.008:013c:0140:trace:reg:NtQueryValueKey (0x4,L"PUBLIC",2,0xffcffd68,4118)
