@@ -10,6 +10,7 @@ A folder dedicated to digging deep into different `CLI` utilities and understand
 * `traceroute`
 * `tcpdump`
 * `wireshark`
+* `ping`
 
 ## System and Resource Monitoring
 
