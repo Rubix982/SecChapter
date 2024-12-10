@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.0sp" android:textStyle="bold" android:id="@id/tip1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tip 1: Use Strong Passwords" />
+    <TextView android:textSize="18.0sp" android:textStyle="bold" android:id="@id/tip2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tip 2: Keep Software Updated" />
+    <TextView android:textSize="18.0sp" android:textStyle="bold" android:id="@id/tip3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tip 3: Be Cautious with Downloads" />
+    <TextView android:textSize="18.0sp" android:textStyle="bold" android:id="@id/tip4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tip 4: Use Secure Wi-Fi Connections" />
+</LinearLayout>
