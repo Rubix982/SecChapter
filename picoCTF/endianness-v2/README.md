@@ -13,4 +13,4 @@ I found this solution on [GitHub](https://github.com/noamgariani11/picoCTF-2024-
 
 ![output-jpeg](image.png)
 
-The flag is `picoCTF{cer!f1Ed_iNd!4n_s0rrY_3nDian_94cc03f3}`.
+The flag is `picoCTF{cert!f1Ed_iNd!4n_s0rrY_3nDian_94cc03f3}`.
