@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Dec 13 23:36:53 2024
+Invocation: foremost -t all -i Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png -o output_dir 
+Output directory: /Users/saif.islam/code/SecChapter/picoCTF/MSB/output_dir
+Configuration file: /opt/homebrew/etc/foremost.conf
+------------------------------------------------------------------
+File: Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png
+Start: Fri Dec 13 23:36:53 2024
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       3 MB 	          0 	  (1074 x 1500)
+Finish: Fri Dec 13 23:36:53 2024
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Dec 13 23:36:53 2024
