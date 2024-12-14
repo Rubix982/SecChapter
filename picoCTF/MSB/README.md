@@ -1,5 +1,20 @@
 # MSB
 
+## Table Of Contents
+
+- [MSB](#msb)
+  - [Table Of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Analysis](#analysis)
+    - [xxd](#xxd)
+    - [pngcheck](#pngcheck)
+    - [exiftool](#exiftool)
+    - [identify](#identify)
+    - [binwalk](#binwalk)
+    - [foremost](#foremost)
+  - [Solution](#solution)
+  - [NOTE](#note)
+
 ## Description
 
 This image passes LSB statistical analysis, but we can't help but think there must be something to the visual artifacts present in this image...
@@ -285,3 +300,7 @@ This generates an output file -> `outputSB.txt`. We can search for the flag here
 ![outputSB.txt](image.png)
 
 The flag is thus, `picoCTF{15_y0ur_que57_qu1x071c_0r_h3r01c_572ad5fe}`.
+
+## NOTE
+
+PS -- it would be a great idea to read the script in detail to understand how this was accomplshed!
