@@ -259,3 +259,29 @@ png:= 1
 
 Foremost finished at Fri Dec 13 23:36:53 2024
 ```
+
+## Solution
+
+I got caught up trying to understand how forensic analysis for PNG files is done. After spending 1.5 hours on this problem, I decided to GitHub this CTF, and found this [solution](https://github.com/snwau/picoCTF-2023-Writeup/blob/main/Forensics/MSB/MSB.md).
+
+To replicate the steps, we do the following -- we download a Python script to extract the MSB (Most Significant Bits)/LSB (Least Significant Bits) for the PNG file,
+
+```sh
+python3 -m venv env
+echo "env/**/**" > .gitignore
+source env/bin/activate
+pip3 install Pillow
+wget https://raw.githubusercontent.com/Pulho/sigBits/master/sigBits.py
+```
+
+And then we execute the script,
+
+```sh
+python3 sigBits.py -t=msb Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png 
+```
+
+This generates an output file -> `outputSB.txt`. We can search for the flag here, as shown in the screenshot,
+
+![outputSB.txt](image.png)
+
+The flag is thus, `picoCTF{15_y0ur_que57_qu1x071c_0r_h3r01c_572ad5fe}`.
