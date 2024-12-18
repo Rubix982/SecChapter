@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-- [\[Challenge Name\]](#challenge-name)
+- [FindAndOpen](#findandopen)
   - [Table Of Contents](#table-of-contents)
   - [Challenge Overview](#challenge-overview)
   - [Outcome Summary](#outcome-summary)
@@ -29,7 +29,10 @@
 - Platform: picoCTF
 - Category: Forensics
 - Difficulty: Medium
-- Objective: Someone might have hidden the password in the trace file.
+- Description: Someone might have hidden the password in the trace file.
+- Links,
+  - https://artifacts.picoctf.net/c/497/flag.zip
+  - https://artifacts.picoctf.net/c/497/dump.pcap
 
 ## Outcome Summary
 

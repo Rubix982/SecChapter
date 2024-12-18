@@ -29,20 +29,27 @@
 - Platform: [picoCTF, HackTheBox, TryHackMe, etc.]
 - Category: [Crypto, Web, Binary Exploitation, Forensics, etc.]
 - Difficulty: [Easy | Medium | Hard]
-- Objective: [Brief description of the challenge]
+- Description: [Brief description of the challenge]
 
 ## Outcome Summary
 
-- **Tools Used**: GDB, pwntools, nmap  
-- **Solution Approaches**: Manual buffer overflow + automated script  
-- **Learning Highlights**: Stack canaries, pwntools scripting  
-- **Final Flag**: `flag{example_flag}`  
+- **Tools Used**: `tcpdump`, `base64`
+- **Solution Approaches**: Trying to use XOR and Subsitution on the other obfuscated test -- did not help -- used partial flag inside 
+- **Learning Highlights**: Using `tcpdump`
+- **Final Flag**: `picoCTF{R34DING_LOKd_fil56_succ3ss_c2e6d949}`
 
 ## Initial Approach
 
 - Steps Taken,
-  - Step 1: ...
-  - Step 2: ...
+  - Step 1: `tcpdump -r dump.pcap`
+  - Step 3: Find this string from the packets -> `VGhpcyBpcyB0aGUgc2VjcmV0OiBwaWNvQ1RGe1IzNERJTkdfTE9LZF8=`
+  - Step 4: Decode using `base64` -> `echo "VGhpcyBpcyB0aGUgc2VjcmV0OiBwaWNvQ1RGe1IzNERJTkdfTE9LZF8=" | base64 -d`
+  - Step 5: This shows text as "This is the secret: picoCTF{R34DING_LOKd_", copy the `picoCTF{R34DING_LOKd_` part
+  - Step 6: `unzip flag.zip`
+  - Step 7: Use the partially decoded flag as the secret
+  - Step 8: This will produce a `flag` file
+  - Step 9: Copy contents of the `flag` file -> `cat flag | pbcopy # for MacOS`
+  
 - Tools and Commands Used:
 
 ```sh
