@@ -37,3 +37,5 @@ Pass to `base64`,
 ```sh
 echo "cGljb0NURntkbnNfM3hmMWxfZnR3X2RlYWRiZWVmfQ==" | base64 -d
 ```
+
+Flag -> `picoCTF{dns_3xf1l_ftw_deadbeef}`.

@@ -1,0 +1,391 @@
+............._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp..................._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp..................._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp..................._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp..................._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp..................._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp..................._nfs._tcp.local......_ftp......._webdav......._webdavs......	_sftp-ssh......._smb......._afpovertcp......
+
+............._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ipps._tcp.local......_ipp..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav......
+
+............._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav..................._ipps._tcp.local......_ipp..................._ftp._tcp.local......_nfs......._afpovertcp......._smb......	_sftp-ssh......._webdavs......._webdav......
+
+picopicopicopico
+
+picoiafda6f6e
+
+kfdsalkfsalkico{N0t_a_fLag}
+
+icoCTF{StaT31355e
+
+fjdbanlkfdnfjdbanlkfdnfjdbanlkfdnfjdbanlkfdnfjdbanlkfdnfjdbanlkfdnfjdbanlkfdnfjdbanlkfdnfjdbanlkfdn
+
+picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!picoCTF Sure is fun!aaaaa
+
+I really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flagsI really want to find some picoCTF flags
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+C
+
+T
+
+F
+
+fjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdnfjdsakf;lankeflksanlkfdn
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+?v...........LAPTOP-HCSFMST7.....?v...........LAPTOP-HCSFMST7.....
+
+?v...........LAPTOP-HCSFMST7.....?v...........LAPTOP-HCSFMST7.....
+
+ffffffffffffffffffffffffffffffffffffffff
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+_
+
+36
+
+}
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+start
+
+aaaaaaaaaa
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaaaaaaa
+
+aaaaaaaaaa
+
+aaaaa
+
+aaaaaaaaaaaaaaa
+
+aaaaa
+
+aaaaaaaaaa
+
+aaaaaaaaaaaaaaa
+
+aaaaa
+
+aaaaaaaaaaaaaaa
+
+bbb
+
+aaaaaaaaaa
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+aaaaa
+
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+aaaaa
+
+end
+
+aaaaaaaaaa
+
+aaaaa
+
+aaaaaaaaaa
+
+aaaaa
+
+aaaaa
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/76.0.3809.100 Windows
