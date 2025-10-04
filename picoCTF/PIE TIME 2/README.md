@@ -21,8 +21,12 @@ curl https://challenge-files.picoctf.net/c_rescued_float/a46e1331e4c897a4bed0f61
 # Enter your name:sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss  
 # sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss enter the address to jump to, ex => 0x12345: sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 # Segfault Occurred, incorrect address.
-```
-
 > %p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p.%p
 > %6$p
 > 0x61ac6a7f32a1.(nil).0x61ac6a7f32d9.0x7ffdd9d61130.0x7c.0x750e90e49238.0x750e90e3b6a0.0x70252e70252e7025.0x252e70252e70252e.0x2e70252e70252e70.0x70252e70252e7025.0x252e70252e70252e.0x2e70252e70252e70.0x70252e70252e7025.0x7ffdd9d6000a.0x61ac588d81c0.0xd4433dc2e7807400.0x7ffdd9d61190.0x61ac588d8441
+```
+
+![gdb stack trace](image.png)
+![stack frame pointer addr](image-1.png)
+![python addr](image-2.png)
+![win method](image-3.png)
